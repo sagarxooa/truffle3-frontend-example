@@ -1,0 +1,9 @@
+Apps:
+  MetaCoin:
+    Name: truffle3-frontend-example
+    Description: Solidity Smart Contract using Truffle framework
+    path: ./
+    mainSolFile: MetaCoin
+    language: solidity
+    truffle: true
+    README: https://github.com/sagarxooa/truffle3-frontend-example/blob/master/README.md
